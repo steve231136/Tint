@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"  android:variablePadding="true">
+    <item android:drawable="@drawable/ic_hdr_weak_black_24dp"
+        android:duration="90"/>
+    <item android:drawable="@drawable/ic_hdr_strong_black_24dp"
+        android:duration="90"/>
+
+
+</animation-list>
